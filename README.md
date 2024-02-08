@@ -234,17 +234,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
-<!-- CONTACT -->
-## Contact
-
-
-Project Link: [https://github.com/agungksidik/laravel9-inertiajs-reactjs-starter](https://github.com/agungksidik/laravel9-inertiajs-reactjs-starter)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
